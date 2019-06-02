@@ -1,6 +1,6 @@
 {
     "name": "vamtiger-youtube-icon-json-ld",
-    "version": "0.0.3",
+    "version": "0.0.4-0",
     "description": "VAMTIGER Youtube Icon JSON-LD",
     "main": "build/vamtiger-youtube-icon-json-ld.js",
     "scripts": {
